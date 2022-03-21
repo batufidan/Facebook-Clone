@@ -38,16 +38,7 @@ function StoryReel() {
           profileSrc="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
           title="Mike"
         />
-        <Story
-          image="https://images.unsplash.com/photo-1471400974796-1c823d00a96f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGNvZmZlZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
-          profileSrc="https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-          title="Yassmin"
-        />
-        <Story
-          image="https://images.unsplash.com/photo-1535957998253-26ae1ef29506?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHdvcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
-          profileSrc="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-          title="Cleo"
-        />
+        
       </div>
     );
   }

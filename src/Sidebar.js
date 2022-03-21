@@ -27,7 +27,7 @@ function Sidebar() {
           />
           <SidebarRow Icon={EmojiFlagsIcon} title="Pages" />
           <SidebarRow Icon={PeopleIcon} title="Friends" />
-          <SidebarRow Icon={ChatIcon} title="Messanger" />
+          <SidebarRow Icon={ChatIcon} title="Messenger" />
           <SidebarRow Icon={StorefrontIcon} title="Marketplace" />
           <SidebarRow Icon={VideoLibraryIcon} title="Videos" />
           <SidebarRow Icon={ExpandMoreIcon} title="Marketplace" />

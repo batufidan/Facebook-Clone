@@ -19,6 +19,8 @@ function Post({ profilePic, image, username, timestamp, message }) {
         </div>
       </div>
 
+      
+
       <div className="post-bottom">
         <p>{message}</p>
       </div>
