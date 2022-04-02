@@ -2,7 +2,6 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
-
 const firebaseConfig = {
     apiKey: "AIzaSyBPsw-ULQvU8umCgDSlckl8_7jbfjqOeAg",
     authDomain: "facebook-clone-6a70d.firebaseapp.com",
