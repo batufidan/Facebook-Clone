@@ -5,6 +5,9 @@ import MessageSender from './MessageSender'
 import Post from './Post'
 import db from './firebase'
 
+
+
+
 function Feed() {
   const [posts, setPosts] = useState([]);
 
@@ -20,7 +23,6 @@ function Feed() {
     <div className="feed">
       <StoryReel />
       <MessageSender />
-
       {posts.map((post) => (
         <Post
           key={post.id}
@@ -41,7 +43,6 @@ function Feed() {
           username={post.data.username}
           image={post.data.image}
         />
-        
       ))}
       {posts.map((post) => (
         <Post
